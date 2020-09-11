@@ -1,1 +1,3 @@
-# Cicada-3301-
+# Cicada-3301
+
+Just for fun...
